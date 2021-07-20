@@ -1,1 +1,1 @@
-# ejercicio-hilo-1-master
+# ejercicio-hilo-1
